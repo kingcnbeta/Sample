@@ -8,4 +8,8 @@ public class Project{
     public Project getProject(){
         return this; 
     }
+
+    public String getName(){
+        return "TT";
+    }
 }
